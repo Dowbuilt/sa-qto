@@ -19,7 +19,7 @@ There are three main components to the workflow:
 ###### [STEP 1] Create Folder Structure
 
 ```
-PROJECT DIRECOTRY
+PROJECT DIRECTORY
 │     
 └───IN
 │   │ original_revit.rvt
