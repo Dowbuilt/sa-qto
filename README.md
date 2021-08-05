@@ -44,5 +44,8 @@ PROJECT DIRECTORY
 ## Example 
 https://user-images.githubusercontent.com/46875099/127904336-89771366-7374-432a-b7ef-e98bd6e4cc3e.mp4
 
+## Notes
 
-
+* Revit ungroup all elements in Dynamo
+* Start in 3d view to run script a
+* Delete all worksets
